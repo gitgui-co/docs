@@ -1,6 +1,6 @@
 # Download GitGUI
 
-Get started with GitGUI in seconds. Choose your platform below.
+Choose your platform and download.
 
 ## Desktop App
 
@@ -63,7 +63,7 @@ After installing, you'll need to activate GitGUI with your license key:
 2. Enter your license key (received via email after purchase)
 3. Click "Activate"
 
-Your license is validated once and then works offline. No internet connection required for daily use.
+Your license is validated once, then works offline.
 
 ::: tip Don't have a license yet?
 [Purchase GitGUI](/pricing) to get your license key instantly via email.
@@ -71,23 +71,18 @@ Your license is validated once and then works offline. No internet connection re
 
 ## Updating
 
-GitGUI checks for updates automatically. When an update is available:
-1. You'll see a notification in the app
-2. Click to download and install
-3. Restart GitGUI to apply the update
-
-Updates are included free for **3 years** from your purchase date.
+GitGUI checks for updates automatically. When one's available, you'll see a notification. Click to download, then restart to apply.
 
 ## Troubleshooting
 
 ### App won't start
-- Ensure you meet the minimum system requirements
+- Check you meet the system requirements
 - Try running as administrator (Windows) or check permissions (macOS/Linux)
 
 ### License activation fails
 - Check your internet connection
-- Verify you entered the license key correctly (no extra spaces)
-- Contact support if issues persist
+- Make sure there are no extra spaces in the license key
+- Email support if it still doesn't work
 
 ### Need help?
-Email us at **support@gitgui.co** and we'll get back to you within 24 hours.
+Email **support@gitgui.co**.

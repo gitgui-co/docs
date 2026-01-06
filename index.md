@@ -4,7 +4,7 @@ layout: home
 hero:
   name: GitGUI
   text: Visual Git Made Simple
-  tagline: A lightweight alternative to GitKraken. Beautiful commit graphs, intuitive staging, voice-powered commits, and keyboard shortcuts that make you fly.
+  tagline: A lightweight Git client. Beautiful commit graphs, intuitive staging, voice-powered commits, and keyboard shortcuts that make you fly.
   image:
     src: /logo.png
     alt: GitGUI
@@ -19,50 +19,50 @@ hero:
 features:
   - icon: 📊
     title: Beautiful Commit Graph
-    details: See your entire Git history at a glance. Visualize branches, merges, and commits with a clean, color-coded graph that makes complex histories easy to understand.
+    details: See your Git history at a glance. Branches, merges, and commits shown in a clean, colour-coded graph.
   - icon: ⚡
     title: Lightning Fast Workflow
-    details: Stage files with a click, commit with Ctrl+Enter, push with Ctrl+P. Extensive keyboard shortcuts let you work at the speed of thought.
+    details: Stage with a click, commit with Ctrl+Enter, push with Ctrl+P. Keyboard shortcuts for everything.
   - icon: 🎤
     title: Voice-Powered Commits
-    details: Speak your commit messages using the built-in Whisper AI model. No cloud, no API keys, completely offline and private.
+    details: Speak your commit messages using a local Whisper model. No cloud, no API keys, runs offline.
   - icon: 🔀
     title: Drag & Drop Merging
-    details: Merge branches by simply dragging one onto another. Visual feedback shows you exactly what will happen before you commit.
+    details: Merge branches by dragging one onto another. Visual feedback shows what will happen.
   - icon: 👁️
     title: Split & Unified Diffs
-    details: View file changes in unified or side-by-side split view. Syntax highlighting and a minimap help you navigate large diffs.
+    details: View changes in unified or split view. Syntax highlighting and minimap for large diffs.
   - icon: 📁
     title: File History & Context
-    details: Right-click any file to see its complete commit history. Switch between list and folder views to navigate your changes easily.
+    details: Right-click any file to see its commit history. Switch between list and folder views.
 ---
 
 ## Why GitGUI?
 
-GitGUI is built for developers who want the **power of Git** without the **complexity of the command line** or the **bloat of enterprise tools**.
+For developers who want Git's power without the command line complexity or bloated tools.
 
 <div class="features-grid">
 
 ### Lightweight & Fast
-No Electron bloat here. GitGUI launches instantly and stays responsive even with large repositories.
+Launches fast, stays responsive. Even with large repos.
 
-### One-Time Payment
-Pay once, own it forever. Includes **3 years of updates** with no recurring fees or subscriptions.
+### No More Subscriptions
+**£25 once. That's it.** The world is tired of subscriptions. Buy software, own it forever, just like we used to in the 90s and 2000s. While other Git clients charge £50-100/year forever, GitGUI costs less than one year of the alternatives and it's yours for life.
 
 ### Privacy First
-Voice recognition runs entirely on your machine using a local Whisper model. Your code and commits never leave your computer.
+Voice recognition runs on your machine. Your code never leaves your computer.
 
 ### Keyboard-Driven
-Every action has a shortcut. `Alt+O` to switch repos, `Ctrl+S` to stage all, `Alt+1-4` for commit prefixes. Work without touching your mouse.
+Every action has a shortcut. `Alt+O` to switch repos, `Ctrl+S` to stage all, `Alt+1-4` for commit prefixes.
 
 </div>
 
 ## Perfect For
 
-- **Solo developers** who want a visual overview of their work
-- **Teams** who need to quickly review branch histories
-- **Open source contributors** managing multiple repositories
-- **Anyone** tired of typing `git log --oneline --graph --all` over and over
+- **Solo developers** wanting a visual overview of their work
+- **Teams** reviewing branch histories
+- **Open source contributors** juggling multiple repos
+- **Anyone** tired of typing `git log --oneline --graph --all`
 
 ---
 

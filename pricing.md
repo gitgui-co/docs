@@ -8,14 +8,13 @@ No subscriptions. No recurring fees. Pay once and own GitGUI for life.
 
 ## GitGUI License
 
-### £25 <span class="price-period">one-time</span>
+### £25 <span class="price-period">lifetime</span>
 
-Everything you need for a streamlined Git workflow.
+Everything you need for a smooth Git workflow.
 
 **Includes:**
 - ✅ Full GitGUI application
 - ✅ All current features
-- ✅ **3 years of free updates**
 - ✅ Voice-powered commits (offline AI)
 - ✅ Unlimited repositories
 - ✅ Email support
@@ -30,55 +29,35 @@ Everything you need for a streamlined Git workflow.
 
 ## Frequently Asked Questions
 
-### What happens after 3 years?
-
-After your 3-year update period ends, GitGUI continues to work forever. You just won't receive new features or updates. You can optionally purchase an update extension at a discounted rate.
-
 ### Can I use GitGUI on multiple computers?
 
-Yes! Your license works on up to **3 devices** that you personally own and use. Perfect for your desktop, laptop, and home office setup.
+Yes. Your license works on up to **3 devices** you own. Desktop, laptop, home office; you're covered.
 
 ### Is there a free trial?
 
-We don't offer a free trial, but we do offer a **30-day money-back guarantee**. If GitGUI isn't right for you, email us for a full refund, no questions asked.
+No free trial, but there's a **14-day money-back guarantee**. If it's not for you, email us for a full refund. Also, the licence is for life.
 
 ### Do you offer team licenses?
 
-Not yet, but we're working on it! For now, each team member needs their own license. Contact us at **sales@gitgui.co** for volume discounts on 5+ licenses.
+Not yet. Each team member needs their own license for now. Email **sales@gitgui.co** for volume discounts on 5+ licenses.
 
 ### What payment methods do you accept?
 
-We accept all major credit cards, Apple Pay, and Google Pay through our secure Stripe checkout.
+All major credit cards, Apple Pay, and Google Pay via Stripe.
 
 ### Is my payment secure?
 
-Absolutely. We use Stripe for payment processing. We never see or store your credit card details.
+Yes. Stripe handles payments; we never see your card details.
 
 ### Do I need an internet connection?
 
-Only for initial activation. After that, GitGUI works completely offline. The voice recognition feature also runs locally on your machine.
-
----
-
-## Compare to Alternatives
-
-| Feature | GitGUI | GitKraken | Sourcetree |
-|---------|--------|-----------|------------|
-| Price | **£25 once** | $59/year | Free |
-| Visual commit graph | ✅ | ✅ | ✅ |
-| Voice commits | ✅ | ❌ | ❌ |
-| Offline voice AI | ✅ | ❌ | ❌ |
-| Keyboard shortcuts | ✅ Extensive | ✅ Limited | ✅ Limited |
-| Drag & drop merge | ✅ | ✅ | ❌ |
-| Lightweight | ✅ | ❌ | ❌ |
-| No account required | ✅ | ❌ | ❌ |
-| Commit prefixes | ✅ Built-in | ❌ | ❌ |
+Only for activation. After that, GitGUI works offline. Voice recognition runs locally too.
 
 ---
 
 ## Money-Back Guarantee
 
-Not satisfied? No problem. We offer a **30-day money-back guarantee**. Just email **support@gitgui.co** and we'll process your refund promptly.
+Not happy? Email **support@gitgui.co** within 14 days for a full refund.
 
 <div class="cta-section">
 

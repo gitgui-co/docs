@@ -34,7 +34,7 @@ The Software and its original content, features, and functionality are owned by 
 All payments are processed securely through Stripe. We do not store your payment information.
 
 ### 4.2 Refund Policy
-We offer a 30-day money-back guarantee. If you are not satisfied with GitGUI for any reason, contact us within 30 days of purchase for a full refund.
+We offer a 14-day money-back guarantee. If you are not satisfied with GitGUI for any reason, contact us within 14 days of purchase for a full refund.
 
 ### 4.3 Pricing
 Prices are subject to change. Any price changes will not affect existing license holders.
