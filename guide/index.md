@@ -36,26 +36,11 @@ GitGUI is perfect for:
 
 GitGUI's interface is divided into three main areas:
 
-```
-┌─────────────────────────────────────────────────────────────┐
-│                        Header Bar                           │
-├──────────┬─────────────────────────────────┬───────────────┤
-│          │                                 │               │
-│ Sidebar  │       Commit Graph              │   Staging     │
-│          │                                 │    Panel      │
-│ - Local  │   [Visual representation of    │               │
-│ - Remote │    your commit history]         │ - Unstaged    │
-│ - Stash  │                                 │ - Staged      │
-│          │                                 │ - Commit      │
-│          │                                 │               │
-├──────────┴─────────────────────────────────┴───────────────┤
-│                        Status Bar                           │
-└─────────────────────────────────────────────────────────────┘
-```
+![GitGUI Interface](/screenshots/all-panels.png)
 
-- **Sidebar** — Browse local branches, remote branches, and stashes
-- **Commit Graph** — Visual history of all commits with branch lines
-- **Staging Panel** — Manage unstaged/staged files and write commits
+- **Sidebar** (left) — Browse local branches, remote branches, and stashes
+- **Commit Graph** (centre) — Visual history of all commits with branch lines
+- **Staging Panel** (right) — Manage unstaged/staged files and write commits
 
 ## Next Steps
 

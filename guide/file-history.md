@@ -15,6 +15,8 @@ Track the complete history of any file in your repository.
 
 ## The File History Panel
 
+![File History Panel](/screenshots/file-git-history.png)
+
 The file history panel shows:
 - **File path** at the top
 - **List of commits** that modified this file
