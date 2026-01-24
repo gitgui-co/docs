@@ -18,7 +18,7 @@ Reset moves your branch pointer to a different commit, effectively "undoing" com
 | **Mixed** | Unchanged | Cleared | Undo commit, keep changes unstaged |
 | **Hard** | Cleared | Cleared | Completely discard changes |
 
-## Resetting in GitGUI
+## Resetting in Gitux
 
 ### From the Commit Graph
 1. Right-click on the commit you want to reset to

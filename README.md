@@ -1,6 +1,6 @@
-# GitGUI Documentation
+# Gitux Documentation
 
-Official documentation and landing page for [GitGUI](https://gitgui.co) — a lightweight, visual Git client.
+Official documentation and landing page for [Gitux](https://gitux.co) — a lightweight, visual Git client.
 
 ## Development
 
@@ -32,4 +32,4 @@ npm run docs:preview
 
 This site is deployed to GitHub Pages via GitHub Actions. Push to `main` to trigger a deployment.
 
-Live at: https://gitgui.co
+Live at: https://gitux.co

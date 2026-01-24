@@ -1,20 +1,20 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
-  title: 'GitGUI',
+  title: 'Gitux',
   description: 'A lightweight, visual Git client for developers who value speed and simplicity',
   base: '/',
   head: [
     ['link', { rel: 'icon', href: '/favicon.ico' }],
     ['meta', { name: 'theme-color', content: '#6366f1' }],
     ['meta', { property: 'og:type', content: 'website' }],
-    ['meta', { property: 'og:title', content: 'GitGUI - Visual Git Made Simple' }],
+    ['meta', { property: 'og:title', content: 'Gitux - Visual Git Made Simple' }],
     ['meta', { property: 'og:description', content: 'A lightweight, visual Git client with an intuitive commit graph, keyboard shortcuts, and voice-powered commits.' }],
-    ['meta', { property: 'og:url', content: 'https://gitgui.co' }],
+    ['meta', { property: 'og:url', content: 'https://gitux.co' }],
   ],
   themeConfig: {
     logo: '/logo.png',
-    siteTitle: 'GitGUI',
+    siteTitle: 'Gitux',
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Features', link: '/features/' },
@@ -70,11 +70,11 @@ export default defineConfig({
       ],
     },
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/gitgui-io/docs' }
+      { icon: 'github', link: 'https://github.com/gitux-co/docs' }
     ],
     footer: {
       message: 'Built for developers who love Git but hate complexity. <a href="/terms">Terms</a> · <a href="/privacy">Privacy</a>',
-      copyright: `Copyright © ${new Date().getFullYear()} GitGUI`
+      copyright: `Copyright © ${new Date().getFullYear()} Gitux`
     }
   }
 })

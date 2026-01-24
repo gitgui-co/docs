@@ -1,10 +1,10 @@
 # Voice Commands
 
-Dictate your commit messages using GitGUI's built-in voice recognition.
+Dictate your commit messages using Gitux's built-in voice recognition.
 
 ## Overview
 
-GitGUI includes a local Whisper AI model for speech-to-text. This means:
+Gitux includes a local Whisper AI model for speech-to-text. This means:
 
 - ✅ **Completely offline** — No internet required after initial setup
 - ✅ **Private** — Audio never leaves your computer
@@ -16,7 +16,7 @@ GitGUI includes a local Whisper AI model for speech-to-text. This means:
 The first time you use voice input:
 
 1. Click the **microphone button** or press `Alt+M`
-2. GitGUI downloads the Whisper model (~40MB)
+2. Gitux downloads the Whisper model (~40MB)
 3. Wait for "Model Ready" notification
 4. The model is cached for future use
 
@@ -101,7 +101,7 @@ The prefix is preserved, and your voice input is appended.
 ### Model Won't Load
 - Check your internet connection (first time only)
 - Ensure you have ~100MB free disk space
-- Restart GitGUI and try again
+- Restart Gitux and try again
 
 ### Poor Transcription Quality
 - Speak more slowly and clearly
@@ -117,7 +117,7 @@ The Whisper model runs entirely on your CPU. Your audio is:
 - Never transmitted anywhere
 
 ### No Cloud Services
-Unlike other voice tools, GitGUI doesn't use:
+Unlike other voice tools, Gitux doesn't use:
 - ❌ Google Speech API
 - ❌ Amazon Transcribe
 - ❌ OpenAI Whisper API
@@ -128,7 +128,7 @@ Everything happens on your machine.
 ## Technical Details
 
 ### Model
-GitGUI uses `whisper-tiny` optimized for:
+Gitux uses `whisper-tiny` optimized for:
 - Fast loading (~2 seconds)
 - Quick transcription (~3 seconds for 10s audio)
 - Small size (~40MB)

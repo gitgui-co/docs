@@ -1,6 +1,6 @@
 # The Commit Graph
 
-The commit graph is the heart of GitGUI — a visual representation of your entire Git history.
+The commit graph is the heart of Gitux — a visual representation of your entire Git history.
 
 ## Understanding the Graph
 
@@ -101,7 +101,7 @@ Right-click on a file in the commit details to:
 ## Performance Tips
 
 For large repositories:
-- GitGUI loads ~100 commits initially
+- Gitux loads ~100 commits initially
 - Scroll down to load more (infinite scroll)
 - The graph remains responsive even with thousands of commits
 

@@ -2,16 +2,16 @@
 
 **Last updated: January 2026**
 
-Please read these Terms and Conditions ("Terms") carefully before using GitGUI ("the Software") operated by GitGUI ("us", "we", or "our").
+Please read these Terms and Conditions ("Terms") carefully before using Gitux ("the Software") operated by Gitux ("us", "we", or "our").
 
 ## 1. Acceptance of Terms
 
-By downloading, installing, or using GitGUI, you agree to be bound by these Terms. If you disagree with any part of these terms, you may not use the Software.
+By downloading, installing, or using Gitux, you agree to be bound by these Terms. If you disagree with any part of these terms, you may not use the Software.
 
 ## 2. License Grant
 
 ### 2.1 License
-Upon purchase, we grant you a non-exclusive, non-transferable, limited license to use GitGUI on up to three (3) devices that you personally own and control.
+Upon purchase, we grant you a non-exclusive, non-transferable, limited license to use Gitux on up to three (3) devices that you personally own and control.
 
 ### 2.2 Restrictions
 You may not:
@@ -26,7 +26,7 @@ Your license includes free updates for three (3) years from the date of purchase
 
 ## 3. Intellectual Property
 
-The Software and its original content, features, and functionality are owned by GitGUI and are protected by international copyright, trademark, and other intellectual property laws.
+The Software and its original content, features, and functionality are owned by Gitux and are protected by international copyright, trademark, and other intellectual property laws.
 
 ## 4. Payment and Refunds
 
@@ -34,14 +34,14 @@ The Software and its original content, features, and functionality are owned by 
 All payments are processed securely through Stripe. We do not store your payment information.
 
 ### 4.2 Refund Policy
-We offer a 14-day money-back guarantee. If you are not satisfied with GitGUI for any reason, contact us within 14 days of purchase for a full refund.
+We offer a 14-day money-back guarantee. If you are not satisfied with Gitux for any reason, contact us within 14 days of purchase for a full refund.
 
 ### 4.3 Pricing
 Prices are subject to change. Any price changes will not affect existing license holders.
 
 ## 5. Privacy
 
-Your use of GitGUI is also governed by our [Privacy Policy](/privacy). The Software does not collect, transmit, or store any of your code, commits, or repository data.
+Your use of Gitux is also governed by our [Privacy Policy](/privacy). The Software does not collect, transmit, or store any of your code, commits, or repository data.
 
 ## 6. Disclaimer of Warranties
 
@@ -54,7 +54,7 @@ We do not warrant that:
 
 ## 7. Limitation of Liability
 
-IN NO EVENT SHALL GITGUI, ITS DIRECTORS, EMPLOYEES, PARTNERS, AGENTS, SUPPLIERS, OR AFFILIATES BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, INCLUDING WITHOUT LIMITATION, LOSS OF PROFITS, DATA, USE, GOODWILL, OR OTHER INTANGIBLE LOSSES, RESULTING FROM:
+IN NO EVENT SHALL GITUX, ITS DIRECTORS, EMPLOYEES, PARTNERS, AGENTS, SUPPLIERS, OR AFFILIATES BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, INCLUDING WITHOUT LIMITATION, LOSS OF PROFITS, DATA, USE, GOODWILL, OR OTHER INTANGIBLE LOSSES, RESULTING FROM:
 
 - Your use or inability to use the Software
 - Any unauthorized access to or use of our servers
@@ -63,7 +63,7 @@ IN NO EVENT SHALL GITGUI, ITS DIRECTORS, EMPLOYEES, PARTNERS, AGENTS, SUPPLIERS,
 
 ## 8. Indemnification
 
-You agree to defend, indemnify, and hold harmless GitGUI and its licensors from and against any claims, damages, obligations, losses, liabilities, costs, or debt arising from your use of the Software or violation of these Terms.
+You agree to defend, indemnify, and hold harmless Gitux and its licensors from and against any claims, damages, obligations, losses, liabilities, costs, or debt arising from your use of the Software or violation of these Terms.
 
 ## 9. Termination
 
@@ -71,7 +71,7 @@ We may terminate or suspend your license immediately, without prior notice or li
 
 ## 10. Governing Law
 
-These Terms shall be governed by and construed in accordance with the laws of the jurisdiction in which GitGUI operates, without regard to its conflict of law provisions.
+These Terms shall be governed by and construed in accordance with the laws of the jurisdiction in which Gitux operates, without regard to its conflict of law provisions.
 
 ## 11. Changes to Terms
 
@@ -85,9 +85,9 @@ If any provision of these Terms is held to be unenforceable or invalid, such pro
 
 If you have any questions about these Terms, please contact us:
 
-- **Email:** legal@gitgui.co
-- **Website:** https://gitgui.co
+- **Email:** legal@gitux.co
+- **Website:** https://gitux.co
 
 ---
 
-By using GitGUI, you acknowledge that you have read, understood, and agree to be bound by these Terms and Conditions.
+By using Gitux, you acknowledge that you have read, understood, and agree to be bound by these Terms and Conditions.

@@ -1,6 +1,6 @@
 # Diff Viewer
 
-View and understand file changes with GitGUI's powerful diff viewer.
+View and understand file changes with Gitux's powerful diff viewer.
 
 ## Opening Diffs
 

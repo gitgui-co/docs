@@ -39,7 +39,7 @@ The left sidebar organizes your branches:
 1. Right-click any branch
 2. Select **Branch from...**
 3. Enter new branch name
-4. GitGUI creates and switches to it
+4. Gitux creates and switches to it
 
 ### Delete Branch
 1. Right-click the branch
@@ -57,14 +57,14 @@ The fastest way to merge branches:
 
 1. **Drag** the source branch (with changes you want)
 2. **Drop** onto the target branch (where changes should go)
-3. GitGUI handles the rest
+3. Gitux handles the rest
 
 ### Visual Feedback
 - Hover highlight shows the drop target
 - Ring indicator confirms valid drop zone
 
 ### What Happens
-1. GitGUI switches to target branch (if needed)
+1. Gitux switches to target branch (if needed)
 2. Merges source into target
 3. Shows success or conflict notification
 

@@ -1,6 +1,6 @@
 # Installation
 
-Get GitGUI up and running on your system in minutes.
+Get Gitux up and running on your system in minutes.
 
 ## Download
 
@@ -25,19 +25,19 @@ Visit the [Download page](/download) to get the latest version for your platform
 1. Download the `.exe` installer
 2. Double-click to run the installer
 3. Follow the installation wizard
-4. Launch GitGUI from the Start menu
+4. Launch Gitux from the Start menu
 
 ::: tip Portable Version
-If you prefer not to install, download the portable `.zip`, extract it anywhere, and run `GitGUI.exe` directly.
+If you prefer not to install, download the portable `.zip`, extract it anywhere, and run `Gitux.exe` directly.
 :::
 
 ### macOS
 
 1. Download the `.dmg` file for your processor type:
-   - **Apple Silicon** (M1/M2/M3) — `GitGUI-arm64.dmg`
-   - **Intel** — `GitGUI-x64.dmg`
+   - **Apple Silicon** (M1/M2/M3) — `Gitux-arm64.dmg`
+   - **Intel** — `Gitux-x64.dmg`
 2. Open the DMG file
-3. Drag GitGUI to your Applications folder
+3. Drag Gitux to your Applications folder
 4. Launch from Applications or Spotlight
 
 ::: warning First Launch on macOS
@@ -48,21 +48,21 @@ On first launch, you may see a security warning. Go to **System Preferences → 
 
 **AppImage (Universal):**
 ```bash
-chmod +x GitGUI.AppImage
-./GitGUI.AppImage
+chmod +x Gitux.AppImage
+./Gitux.AppImage
 ```
 
 **Debian/Ubuntu:**
 ```bash
-sudo dpkg -i GitGUI.deb
+sudo dpkg -i Gitux.deb
 sudo apt-get install -f  # Install dependencies if needed
 ```
 
 ## License Activation
 
-After installation, you'll need to activate GitGUI with your license key:
+After installation, you'll need to activate Gitux with your license key:
 
-1. Launch GitGUI
+1. Launch Gitux
 2. You'll see the activation screen
 3. Enter your license key (sent to your email after purchase)
 4. Click **Activate**
@@ -78,36 +78,36 @@ Your license is validated once online, then works completely offline.
 ::: info License Not Working?
 - Check for extra spaces when copying the license key
 - Ensure you have an internet connection for initial activation
-- Contact support@gitgui.co if issues persist
+- Contact support@gitux.co if issues persist
 :::
 
-## Updating GitGUI
+## Updating Gitux
 
-GitGUI checks for updates automatically on launch. When an update is available:
+Gitux checks for updates automatically on launch. When an update is available:
 
 1. A notification appears in the app
 2. Click to download the update
-3. Restart GitGUI to apply
+3. Restart Gitux to apply
 
 Updates are **free for 3 years** from your purchase date.
 
 ## Uninstalling
 
 ### Windows
-Use "Add or Remove Programs" in Windows Settings, or run the uninstaller from the GitGUI folder.
+Use "Add or Remove Programs" in Windows Settings, or run the uninstaller from the Gitux folder.
 
 ### macOS
-Drag GitGUI from Applications to Trash.
+Drag Gitux from Applications to Trash.
 
 ### Linux
 ```bash
 # AppImage - just delete the file
-rm GitGUI.AppImage
+rm Gitux.AppImage
 
 # Debian/Ubuntu
-sudo apt remove gitgui
+sudo apt remove gitux
 ```
 
 ## Next Steps
 
-Now that GitGUI is installed, learn how to [open your first repository](/guide/opening-repo).
+Now that Gitux is installed, learn how to [open your first repository](/guide/opening-repo).

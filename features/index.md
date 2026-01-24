@@ -1,6 +1,6 @@
 # Features Overview
 
-GitGUI packs powerful features into a lightweight, intuitive interface.
+Gitux packs powerful features into a lightweight, intuitive interface.
 
 ## Core Features
 
@@ -32,7 +32,7 @@ Right-click any file to see its complete commit history. Track changes over time
 
 ## Feature Comparison
 
-| Feature | GitGUI | GitKraken | Sourcetree |
+| Feature | Gitux | GitKraken | Sourcetree |
 |---------|--------|-----------|------------|
 | Visual commit graph | ✅ | ✅ | ✅ |
 | Drag & drop merge | ✅ | ✅ | ❌ |
@@ -48,10 +48,10 @@ Right-click any file to see its complete commit history. Track changes over time
 | One-time payment | ✅ | ❌ | ✅ (Free) |
 | No account required | ✅ | ❌ | ❌ |
 
-## What Makes GitGUI Different
+## What Makes Gitux Different
 
 ### Speed First
-GitGUI is designed to be fast. Launch instantly, switch repos quickly, and never wait for the UI to catch up.
+Gitux is designed to be fast. Launch instantly, switch repos quickly, and never wait for the UI to catch up.
 
 ### Privacy by Design
 Voice recognition runs locally. Your code never leaves your machine. No telemetry, no analytics, no cloud dependencies.
@@ -64,4 +64,4 @@ One payment, lifetime access, 3 years of updates. No subscriptions, no tiers, no
 
 ## Getting Started
 
-New to GitGUI? Start with the [Introduction](/guide/) to learn the basics, or jump straight to [Installation](/guide/installation) to get started.
+New to Gitux? Start with the [Introduction](/guide/) to learn the basics, or jump straight to [Installation](/guide/installation) to get started.

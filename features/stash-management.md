@@ -1,6 +1,6 @@
 # Stash Management
 
-Save work-in-progress without committing using GitGUI's stash feature.
+Save work-in-progress without committing using Gitux's stash feature.
 
 ## What is Stashing?
 
@@ -98,7 +98,7 @@ Good messages help you remember:
 ## Handling Conflicts
 
 If applying a stash conflicts with current changes:
-1. GitGUI shows warning
+1. Gitux shows warning
 2. Conflicted files in staging panel
 3. Resolve conflicts manually
 4. Stage resolved files

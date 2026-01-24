@@ -1,6 +1,6 @@
 # Visual Commit Graph
 
-The commit graph is GitGUI's centerpiece — a visual representation of your entire Git history.
+The commit graph is Gitux's centerpiece — a visual representation of your entire Git history.
 
 ## What You See
 
@@ -78,7 +78,7 @@ Right-click a commit for options:
 
 ## Performance
 
-GitGUI handles large repositories efficiently:
+Gitux handles large repositories efficiently:
 - **Lazy loading** — Only loads visible commits
 - **Virtual scrolling** — Smooth scrolling through thousands of commits
 - **Incremental updates** — Refreshes only what changed

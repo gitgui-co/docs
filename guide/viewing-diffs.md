@@ -1,6 +1,6 @@
 # Viewing Diffs
 
-Learn how to view and understand file changes in GitGUI.
+Learn how to view and understand file changes in Gitux.
 
 ## Opening the Diff Viewer
 
@@ -13,7 +13,7 @@ Click any file in the **Unstaged** or **Staged** sections to see its changes.
 
 ## Diff View Modes
 
-GitGUI offers two ways to view diffs:
+Gitux offers two ways to view diffs:
 
 ### Unified View
 Shows changes in a single column with additions and deletions inline.

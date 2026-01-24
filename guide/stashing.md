@@ -72,7 +72,7 @@ Dropped stashes cannot be recovered. Make sure you don't need the changes.
 ## Stash Conflicts
 
 If applying a stash conflicts with your current changes:
-1. GitGUI shows a warning
+1. Gitux shows a warning
 2. Conflicted files appear in the staging panel
 3. Resolve conflicts manually
 4. Stage and commit the resolution
@@ -112,7 +112,7 @@ If applying a stash conflicts with your current changes:
 
 ## Viewing Stash Contents
 
-Currently, GitGUI shows stash messages in the list. To see the full contents of a stash, you can use the terminal:
+Currently, Gitux shows stash messages in the list. To see the full contents of a stash, you can use the terminal:
 
 ```bash
 git stash show -p stash@{0}

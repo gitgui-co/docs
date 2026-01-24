@@ -1,6 +1,6 @@
 # Branches & Merging
 
-Learn how to work with branches and merge changes in GitGUI.
+Learn how to work with branches and merge changes in Gitux.
 
 ## The Sidebar
 
@@ -43,7 +43,7 @@ Single-click a branch to scroll the commit graph to that branch's latest commit 
 1. Right-click any branch
 2. Select **Branch from...**
 3. Enter the new branch name
-4. GitGUI creates and switches to the new branch
+4. Gitux creates and switches to the new branch
 
 ### Branch Naming Tips
 - Use prefixes: `feature/`, `fix/`, `hotfix/`
@@ -57,7 +57,7 @@ The fastest way to merge:
 
 1. **Drag** the source branch (the one with changes)
 2. **Drop** it onto the target branch (where you want the changes)
-3. GitGUI will:
+3. Gitux will:
    - Switch to the target branch if needed
    - Perform the merge
    - Show success or conflict notification
@@ -80,7 +80,7 @@ The fastest way to merge:
 
 When a merge has conflicts:
 
-1. GitGUI shows a warning notification
+1. Gitux shows a warning notification
 2. Conflicted files appear in the staging panel
 3. Open each file in your editor to resolve conflicts
 4. Stage the resolved files
@@ -132,7 +132,7 @@ The status bar shows if your branch is behind or ahead of the remote.
 Remote branches appear under the **Remote** section in the sidebar, organized by remote name (usually `origin`).
 
 ### Tracking
-When you checkout a remote branch, GitGUI creates a local tracking branch automatically.
+When you checkout a remote branch, Gitux creates a local tracking branch automatically.
 
 ## Best Practices
 

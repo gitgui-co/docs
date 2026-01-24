@@ -1,10 +1,10 @@
 # Keyboard Shortcuts
 
-Every action in GitGUI has a keyboard shortcut for maximum productivity.
+Every action in Gitux has a keyboard shortcut for maximum productivity.
 
 ## Quick Reference
 
-Press `Ctrl+/` anytime to see all shortcuts in GitGUI.
+Press `Ctrl+/` anytime to see all shortcuts in Gitux.
 
 ## File Operations
 
@@ -109,7 +109,7 @@ All shortcuts work as documented. Some desktop environments may intercept certai
 
 ```
 ╔═══════════════════════════════════════════╗
-║         GITGUI KEYBOARD SHORTCUTS         ║
+║         GITUX KEYBOARD SHORTCUTS         ║
 ╠═══════════════════════════════════════════╣
 ║ FILES                                     ║
 ║   Ctrl+O ........ Open repository         ║

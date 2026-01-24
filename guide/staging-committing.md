@@ -1,10 +1,10 @@
 # Staging & Committing
 
-Learn how to stage changes and create commits in GitGUI.
+Learn how to stage changes and create commits in Gitux.
 
 ## The Staging Panel
 
-The staging panel on the right side of GitGUI shows:
+The staging panel on the right side of Gitux shows:
 - **Unstaged Files** — Changes not yet added to the next commit
 - **Staged Files** — Changes ready to be committed
 - **Commit Area** — Write your message and commit
@@ -38,7 +38,7 @@ The commit message textarea supports:
 
 ### Commit Prefixes
 
-GitGUI includes built-in commit prefix buttons for conventional commits:
+Gitux includes built-in commit prefix buttons for conventional commits:
 
 | Button | Prefix | Use For |
 |--------|--------|---------|
@@ -90,7 +90,7 @@ The button shows how many files will be committed: "Commit 3 files"
 ## Workflow Example
 
 1. Make changes to your files in your editor
-2. GitGUI automatically detects the changes (unstaged files appear)
+2. Gitux automatically detects the changes (unstaged files appear)
 3. Review changes by clicking files to see diffs
 4. Stage the files you want to commit (`Ctrl+S` for all)
 5. Select a prefix (`Alt+1` for feat)

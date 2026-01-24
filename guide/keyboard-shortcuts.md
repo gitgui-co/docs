@@ -4,7 +4,7 @@ Master these shortcuts to fly through your Git workflow.
 
 ## Viewing All Shortcuts
 
-Press `Ctrl+/` at any time to open the keyboard shortcuts panel within GitGUI.
+Press `Ctrl+/` at any time to open the keyboard shortcuts panel within Gitux.
 
 ## File Operations
 
@@ -126,7 +126,7 @@ All shortcuts work as documented. Some desktop environments may intercept certai
 
 ```
 ┌─────────────────────────────────────────────┐
-│           GitGUI Keyboard Shortcuts         │
+│           Gitux Keyboard Shortcuts         │
 ├─────────────────────────────────────────────┤
 │ FILES                                       │
 │   Ctrl+O      Open repository               │

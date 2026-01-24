@@ -1,10 +1,10 @@
-# Introduction to GitGUI
+# Introduction to Gitux
 
-Welcome to GitGUI — a lightweight, visual Git client designed for developers who value speed and simplicity.
+Welcome to Gitux — a lightweight, visual Git client designed for developers who value speed and simplicity.
 
-## What is GitGUI?
+## What is Gitux?
 
-GitGUI is a desktop application that provides a visual interface for Git. Think of it as a lighter, faster alternative to GitKraken or Sourcetree, with unique features like voice-powered commits and extensive keyboard shortcuts.
+Gitux is a desktop application that provides a visual interface for Git. Think of it as a lighter, faster alternative to GitKraken or Sourcetree, with unique features like voice-powered commits and extensive keyboard shortcuts.
 
 ## Key Features
 
@@ -17,9 +17,9 @@ GitGUI is a desktop application that provides a visual interface for Git. Think 
 - **File History** — Right-click any file to see its complete history
 - **Stash Management** — Save and restore work-in-progress with ease
 
-## Who is GitGUI For?
+## Who is Gitux For?
 
-GitGUI is perfect for:
+Gitux is perfect for:
 
 - **Individual developers** who want a visual overview of their repositories
 - **Teams** who need to quickly understand branch histories
@@ -28,15 +28,15 @@ GitGUI is perfect for:
 
 ## Getting Started
 
-1. [Download GitGUI](/download) for your platform
+1. [Download Gitux](/download) for your platform
 2. [Install and activate](/guide/installation) your license
 3. [Open a repository](/guide/opening-repo) and start working
 
 ## Interface Overview
 
-GitGUI's interface is divided into three main areas:
+Gitux's interface is divided into three main areas:
 
-![GitGUI Interface](/screenshots/all-panels.png)
+![Gitux Interface](/screenshots/all-panels.png)
 
 - **Sidebar** (left) — Browse local branches, remote branches, and stashes
 - **Commit Graph** (centre) — Visual history of all commits with branch lines
@@ -44,6 +44,6 @@ GitGUI's interface is divided into three main areas:
 
 ## Next Steps
 
-- [Installation Guide](/guide/installation) — Get GitGUI running on your machine
+- [Installation Guide](/guide/installation) — Get Gitux running on your machine
 - [Opening a Repository](/guide/opening-repo) — Start working with your code
 - [Keyboard Shortcuts](/guide/keyboard-shortcuts) — Master the shortcuts for maximum speed

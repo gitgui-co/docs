@@ -2,11 +2,11 @@
 
 **Last updated: January 2026**
 
-GitGUI ("us", "we", or "our") operates the GitGUI desktop application (the "Software"). This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Software.
+Gitux ("us", "we", or "our") operates the Gitux desktop application (the "Software"). This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Software.
 
 ## Our Commitment to Privacy
 
-**GitGUI is designed with privacy as a core principle.** Your code, commits, and repository data never leave your computer. We believe your development work is your business, not ours.
+**Gitux is designed with privacy as a core principle.** Your code, commits, and repository data never leave your computer. We believe your development work is your business, not ours.
 
 ## Information We Collect
 
@@ -30,7 +30,7 @@ This information is transmitted securely via HTTPS and stored on our servers.
 
 ## Voice Recognition
 
-GitGUI includes voice-to-text functionality for commit messages. This feature:
+Gitux includes voice-to-text functionality for commit messages. This feature:
 - Uses a **local Whisper AI model** that runs entirely on your device
 - **Never transmits audio** to any server
 - **Does not store recordings** - audio is processed in memory and immediately discarded
@@ -38,7 +38,7 @@ GitGUI includes voice-to-text functionality for commit messages. This feature:
 
 ## Purchase Information
 
-When you purchase GitGUI, payment is processed by **Stripe**. We receive:
+When you purchase Gitux, payment is processed by **Stripe**. We receive:
 - Your email address (for license delivery and support)
 - Transaction ID
 - Purchase date
@@ -84,11 +84,11 @@ You have the right to:
 - **Portability** - Receive your data in a structured format
 - **Object** - Object to processing of your data
 
-To exercise these rights, contact us at **privacy@gitgui.co**.
+To exercise these rights, contact us at **privacy@gitux.co**.
 
 ## Children's Privacy
 
-GitGUI is not intended for use by children under 13. We do not knowingly collect personal information from children under 13.
+Gitux is not intended for use by children under 13. We do not knowingly collect personal information from children under 13.
 
 ## International Data Transfers
 
@@ -105,8 +105,8 @@ We may update this Privacy Policy from time to time. We will notify you of any c
 
 If you have questions about this Privacy Policy or our data practices, please contact us:
 
-- **Email:** privacy@gitgui.co
-- **Website:** https://gitgui.co
+- **Email:** privacy@gitux.co
+- **Website:** https://gitux.co
 
 ---
 
@@ -121,4 +121,4 @@ If you have questions about this Privacy Policy or our data practices, please co
 | Email address | ✅ Yes | ✅ Yes (encrypted) |
 | Usage analytics | ❌ No | ❌ No |
 
-**Bottom line:** GitGUI respects your privacy. Your code stays on your machine.
+**Bottom line:** Gitux respects your privacy. Your code stays on your machine.

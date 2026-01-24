@@ -2,12 +2,12 @@
 layout: home
 
 hero:
-  name: GitGUI
+  name: Gitux
   text: Visual Git Made Simple
   tagline: A lightweight Git client. Beautiful commit graphs, intuitive staging, voice-powered commits, and keyboard shortcuts that make you fly.
   image:
     src: /logo.png
-    alt: GitGUI
+    alt: Gitux
   actions:
     - theme: brand
       text: Download Now
@@ -37,7 +37,7 @@ features:
     details: Right-click any file to see its commit history. Switch between list and folder views.
 ---
 
-## Why GitGUI?
+## Why Gitux?
 
 For developers who want Git's power without the command line complexity or bloated tools.
 
@@ -47,7 +47,7 @@ For developers who want Git's power without the command line complexity or bloat
 Launches fast, stays responsive. Even with large repos.
 
 ### No More Subscriptions
-**£25 once. That's it.** The world is tired of subscriptions. Buy software, own it forever, just like we used to in the 90s and 2000s. While other Git clients charge £50-100/year forever, GitGUI costs less than one year of the alternatives and it's yours for life.
+**£25 once. That's it.** The world is tired of subscriptions. Buy software, own it forever, just like we used to in the 90s and 2000s. While other Git clients charge £50-100/year forever, Gitux costs less than one year of the alternatives and it's yours for life.
 
 ### Privacy First
 Voice recognition runs on your machine. Your code never leaves your computer.
@@ -70,6 +70,6 @@ Every action has a shortcut. `Alt+O` to switch repos, `Ctrl+S` to stage all, `Al
 
 ## Ready to simplify your Git workflow?
 
-[Download GitGUI](/download){.cta-button} [View Pricing](/pricing){.cta-button-alt}
+[Download Gitux](/download){.cta-button} [View Pricing](/pricing){.cta-button-alt}
 
 </div>
