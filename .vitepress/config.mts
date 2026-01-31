@@ -5,7 +5,11 @@ export default defineConfig({
   description: 'A lightweight, visual Git client for developers who value speed and simplicity',
   base: '/',
   head: [
-    ['link', { rel: 'icon', href: '/favicon.ico' }],
+    ['link', { rel: 'icon', type: 'image/png', href: '/favicon/favicon-96x96.png', sizes: '96x96' }],
+    ['link', { rel: 'icon', type: 'image/svg+xml', href: '/favicon/favicon.svg' }],
+    ['link', { rel: 'shortcut icon', href: '/favicon/favicon.ico' }],
+    ['link', { rel: 'apple-touch-icon', sizes: '180x180', href: '/favicon/apple-touch-icon.png' }],
+    ['link', { rel: 'manifest', href: '/favicon/site.webmanifest' }],
     ['meta', { name: 'theme-color', content: '#6366f1' }],
     ['meta', { property: 'og:type', content: 'website' }],
     ['meta', { property: 'og:title', content: 'Gitux - Visual Git Made Simple' }],
