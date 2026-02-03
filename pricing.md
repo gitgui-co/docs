@@ -13,12 +13,8 @@ No subscriptions. No recurring fees. Pay once and own Gitux for life.
 Everything you need for a smooth Git workflow.
 
 **Includes:**
-- ✅ Full Gitux application
-- ✅ All current features
-- ✅ Voice-powered commits (offline AI)
-- ✅ Unlimited repositories
-- ✅ 3 devices
-- ✅ All features, nothing hidden.
+
+✅ Full Gitux application ✅ Voice-powered commits (offline AI) ✅ Unlimited repositories ✅ 3 devices ✅ All features, nothing hidden.
 
 [Download Gitux](/download){.buy-button}
 

@@ -21,9 +21,9 @@ export default defineConfig({
     siteTitle: 'Gitux',
     nav: [
       { text: 'Home', link: '/' },
+      { text: 'Pricing', link: '/pricing' },
       { text: 'Features', link: '/features/' },
       { text: 'Guide', link: '/guide/' },
-      { text: 'Pricing', link: '/pricing' },
       { text: 'Download', link: '/download' }
     ],
     sidebar: {
