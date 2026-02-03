@@ -2,34 +2,6 @@
 
 Choose your platform and download from the [GitHub Releases](https://github.com/gitux-co/downloads/releases).
 
-## Desktop App
-
-<div class="download-grid">
-
-### Windows
-**Gitux for Windows**
-- [Download .exe](https://github.com/gitux-co/downloads/releases/latest/download/Gitux-Setup.exe)
-
-### macOS
-**Gitux for macOS** (Apple Silicon)
-- [Download .dmg](https://github.com/gitux-co/downloads/releases/latest/download/Gitux.dmg)
-- [Download .zip](https://github.com/gitux-co/downloads/releases/latest/download/Gitux.zip)
-
-### Linux
-**Gitux for Linux**
-- [Download .deb](https://github.com/gitux-co/downloads/releases/latest/download/Gitux.deb) (Debian/Ubuntu)
-- [Download .flatpak](https://github.com/gitux-co/downloads/releases/latest/download/Gitux.flatpak)
-
-</div>
-
-## System Requirements
-
-| Platform | Minimum Requirements |
-|----------|---------------------|
-| Windows | Windows 10+, 4GB RAM |
-| macOS | macOS 11+ (Apple Silicon), 4GB RAM |
-| Linux | Ubuntu 20.04+ or equivalent, 4GB RAM |
-
 ## Installation
 
 ### Linux
