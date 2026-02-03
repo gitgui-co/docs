@@ -2,6 +2,8 @@
 
 Learn how to view and understand file changes in Gitux.
 
+![Viewing Diffs](/screenshots/Screenshot%20-%20diff%20view.png)
+
 ## Opening the Diff Viewer
 
 ### From Staging Panel

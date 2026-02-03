@@ -36,7 +36,7 @@ Gitux is perfect for:
 
 Gitux's interface is divided into three main areas:
 
-![Gitux Interface](/screenshots/all-panels.png)
+![Gitux Interface](/screenshots/Screenshot%20-%20splash%20page.png)
 
 - **Sidebar** (left) — Browse local branches, remote branches, and stashes
 - **Commit Graph** (centre) — Visual history of all commits with branch lines

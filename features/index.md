@@ -50,6 +50,8 @@ Right-click any file to see its complete commit history. Track changes over time
 
 ## What Makes Gitux Different
 
+![Settings](/screenshots/Screenshot%20-%20settings.png)
+
 ### Speed First
 Gitux is designed to be fast. Launch instantly, switch repos quickly, and never wait for the UI to catch up.
 

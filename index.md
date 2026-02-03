@@ -41,6 +41,8 @@ features:
 
 For developers who want Git's power without the command line complexity or bloated tools.
 
+![Gitux](/screenshots/Screenshot%20-%20splash%20page.png)
+
 <div class="features-grid">
 
 ### Lightweight & Fast

@@ -60,7 +60,7 @@ Click a branch in the sidebar to scroll the graph to that branch's latest commit
 
 When you click a commit, the details panel shows:
 
-![Commit Details View](/screenshots/commit-graph-detail-view.png)
+![Commit Details View](/screenshots/Screenshot%20-%20rich%20commit%20graph.png)
 
 1. **File List** — All files changed in that commit
    - Toggle between list view and folder view

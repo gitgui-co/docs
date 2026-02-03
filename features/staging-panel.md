@@ -2,6 +2,8 @@
 
 The staging panel is your command center for preparing and creating commits.
 
+![Staging Panel](/screenshots/Screenshot%20-%20commit.png)
+
 ## Panel Layout
 
 The staging panel (right side) contains three sections:

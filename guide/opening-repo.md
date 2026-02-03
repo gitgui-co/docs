@@ -28,8 +28,6 @@ Recent repositories appear below the "Open Repository" button. Click any reposit
 ### Quick Switch with Alt+O
 Press `Alt+O` to open the **Recent Repositories** modal from anywhere in the app. This is the fastest way to switch between projects.
 
-![Recent Repositories Modal](/screenshots/open-recent.png)
-
 ### Managing Recent Repositories
 - Hover over a recent repository to see the **X** button
 - Click **X** to remove it from the list

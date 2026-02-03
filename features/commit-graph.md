@@ -2,6 +2,8 @@
 
 The commit graph is Gitux's centerpiece — a visual representation of your entire Git history.
 
+![Visual Commit Graph](/screenshots/Screenshot%20-%20rich%20commit%20graph.png)
+
 ## What You See
 
 The commit graph displays:

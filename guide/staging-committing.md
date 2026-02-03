@@ -2,6 +2,8 @@
 
 Learn how to stage changes and create commits in Gitux.
 
+![Staging & Committing](/screenshots/Screenshot%20-%20commit.png)
+
 ## The Staging Panel
 
 The staging panel on the right side of Gitux shows:
