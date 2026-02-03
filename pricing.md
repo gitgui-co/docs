@@ -8,7 +8,7 @@ No subscriptions. No recurring fees. Pay once and own Gitux for life.
 
 ## Gitux License
 
-### £25 <span class="price-period">lifetime</span>
+### £24 <span class="price-period">lifetime</span>
 
 Everything you need for a smooth Git workflow.
 
@@ -17,11 +17,11 @@ Everything you need for a smooth Git workflow.
 - ✅ All current features
 - ✅ Voice-powered commits (offline AI)
 - ✅ Unlimited repositories
-- ✅ Email support
+- ✅ 3 years of updates
 
-[Buy Now](https://buy.gitux.co){.buy-button}
+[Download Gitux](/download){.buy-button}
 
-<small>Secure payment via Stripe. Instant delivery via email.</small>
+<small>Purchase your license directly in the app via Stripe.</small>
 
 </div>
 
@@ -63,6 +63,6 @@ Not happy? Email **support@gitux.co** within 14 days for a full refund.
 
 ## Ready to upgrade your Git workflow?
 
-[Buy Gitux - £25](https://buy.gitux.co){.buy-button}
+[Download Gitux](/download){.buy-button}
 
 </div>

@@ -84,7 +84,7 @@ You have the right to:
 - **Portability** - Receive your data in a structured format
 - **Object** - Object to processing of your data
 
-To exercise these rights, contact us at **privacy@gitux.co**.
+To exercise these rights, contact us at **support@gitux.co**.
 
 ## Children's Privacy
 
@@ -93,6 +93,26 @@ Gitux is not intended for use by children under 13. We do not knowingly collect 
 ## International Data Transfers
 
 Your information may be transferred to and processed in countries other than your own. We ensure appropriate safeguards are in place to protect your data in accordance with this Privacy Policy.
+
+## GDPR Compliance
+
+For users in the European Economic Area (EEA), we process your data under the following legal bases:
+
+- **Contract performance** - License validation is necessary to provide the Software you purchased
+- **Legitimate interest** - Storing your email for customer support and license delivery
+
+You have the right to lodge a complaint with your local data protection authority if you believe we have not complied with applicable data protection laws.
+
+## Cookies
+
+**We do not use cookies.** The Gitux website and application do not use cookies, tracking pixels, or any other tracking technologies.
+
+## Data Breach Notification
+
+In the unlikely event of a data breach affecting your personal information, we will:
+- Notify affected users via email within 72 hours of becoming aware of the breach
+- Notify relevant data protection authorities as required by law
+- Provide information about the nature of the breach and steps being taken
 
 ## Changes to This Policy
 
@@ -105,7 +125,7 @@ We may update this Privacy Policy from time to time. We will notify you of any c
 
 If you have questions about this Privacy Policy or our data practices, please contact us:
 
-- **Email:** privacy@gitux.co
+- **Email:** support@gitux.co
 - **Website:** https://gitux.co
 
 ---
@@ -121,4 +141,4 @@ If you have questions about this Privacy Policy or our data practices, please co
 | Email address | ✅ Yes | ✅ Yes (encrypted) |
 | Usage analytics | ❌ No | ❌ No |
 
-**Bottom line:** Gitux respects your privacy. Your code stays on your machine.
+**Bottom line:** Gitux respects your privacy. Your code, commits, voice recordings, and repository data never leave your machine. We only collect your email address and license key for purchase validation — nothing else.
