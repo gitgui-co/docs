@@ -39,6 +39,8 @@ features:
 
 ## Why Gitux?
 
+GitUX was born out of frustration with the state of Git clients. They either lacked a beautiful UI or were bloated with features we didn't need, or charged a yearly subscription fee. GitUX is simple, fast, and focused on what you need to get done.
+
 For developers who want Git's power without the command line complexity or bloated tools.
 ![GitUX](/screenshots/Screenshot%20-%20rich%20commit%20graph.png)
 
