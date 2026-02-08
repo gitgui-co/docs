@@ -1,6 +1,6 @@
 # Terms and Conditions
 
-**Last updated: January 2026**
+**Last updated: February 2026**
 
 Please read these Terms and Conditions ("Terms") carefully before using Gitux ("the Software") operated by Gitux ("us", "we", or "our").
 
@@ -34,7 +34,7 @@ The Software and its original content, features, and functionality are owned by 
 All payments are processed securely through Stripe. We do not store your payment information.
 
 ### 4.2 Refund Policy
-We offer a 14-day money-back guarantee. If you are not satisfied with Gitux for any reason, contact us within 14 days of purchase for a full refund.
+All purchases are final. We offer a generous 4-week free trial with full access to every feature, giving you ample time to evaluate the Software before purchasing. As such, we do not offer refunds. If you experience a technical issue that prevents you from using the Software, please contact us and we will work to resolve it.
 
 ### 4.3 Pricing
 Prices are subject to change. Any price changes will not affect existing license holders.

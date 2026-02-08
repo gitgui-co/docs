@@ -4,7 +4,7 @@ layout: home
 hero:
   name: Gitux
   text: Visual Git Made Simple
-  tagline: A lightweight Git client. Beautiful commit graphs, intuitive staging, voice-powered commits, and keyboard shortcuts that make you fly. Try free for 4 weeks — no credit card, no account required.
+  tagline: A lightweight Git client. Beautiful commit graphs, intuitive staging, voice-powered commits, and keyboard shortcuts that make you fly. Try free for 4 weeks; no credit card, no account required.
   image:
     src: /logo.png
     alt: Gitux
