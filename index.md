@@ -3,21 +3,21 @@ layout: home
 
 hero:
   name: Gitux
-  text: Visual Git Made Simple
-  tagline: A lightweight Git client. Beautiful commit graphs, intuitive staging, voice-powered commits, and keyboard shortcuts that make you fly. Try free for 4 weeks; no credit card, no account required.
+  text: The Last Git Client You'll Ever Buy
+  tagline: Beautiful commit graphs, voice-powered commits, keyboard shortcuts that make you fly. £24 once — yours forever. Try free for 4 weeks, no credit card, no account needed.
   image:
     src: /logo.png
     alt: Gitux
   actions:
     - theme: brand
-      text: Download Now
+      text: Download Free Trial
       link: /download
-    - theme: alt
-      text: View Features
-      link: /features/
     - theme: alt
       text: ▶ Watch Demo
       link: '#demo'
+    - theme: alt
+      text: See Pricing
+      link: /pricing
 
 features:
   - icon: 📊
@@ -28,20 +28,21 @@ features:
     details: Stage with a click, commit with Ctrl+Enter, push with Ctrl+P. Keyboard shortcuts for everything.
   - icon: 🎤
     title: Voice-Powered Commits
-    details: Speak your commit messages using a local Whisper model. No cloud, no API keys, runs offline.
+    details: Speak your commit messages using a local Whisper model. No cloud, no API keys, runs entirely offline.
   - icon: 🔀
     title: Drag & Drop Merging
-    details: Merge branches by dragging one onto another. Visual feedback shows what will happen.
+    details: Merge branches by dragging one onto another. Visual feedback shows exactly what will happen.
   - icon: 👁️
     title: Split & Unified Diffs
     details: View changes in unified or split view. Syntax highlighting and minimap for large diffs.
-  - icon: �
+  - icon: 🔍
     title: Search & Filter
     details: Find any commit by message, author, or date. Search files and browse the repo tree to jump straight to file history.
-  - icon: �📁
-    title: File History & Context
-    details: Right-click any file to see its commit history. Switch between list and folder views.
 ---
+
+<div class="trial-banner">
+  <strong>🎉 Try Gitux free for 28 days</strong> — full access, every feature, no credit card, no account. Just <a href="/download">download and start using it</a>.
+</div>
 
 <div id="demo" class="demo-section">
 
@@ -54,33 +55,46 @@ features:
 
 </div>
 
-## Why Gitux?
+## Why Developers Switch to Gitux
 
-GitUX was born out of frustration with the state of Git clients. They either lacked a beautiful UI or were bloated with features we didn't need, or charged a yearly subscription fee. GitUX is simple, fast, and focused on what you need to get done.
+GitUX was born out of frustration. Git clients either lacked a beautiful UI, were bloated with features nobody asked for, or charged a yearly subscription. We built something different.
 
-For developers who want Git's power without the command line complexity or bloated tools.
 ![GitUX](/screenshots/Screenshot%20-%20rich%20commit%20graph.png)
 
 <div class="features-grid">
 
-### Lightweight & Fast
-Launches fast, stays responsive. Even with large repos.
-
 ### No More Subscriptions
-**£24 once. That's it.** The world is tired of subscriptions. Buy software, own it forever, just like we used to in the 90s and 2000s. While other Git clients charge £50-100/year forever, Gitux costs less than one year of the alternatives and it's yours for life.
+**£24 once. Yours forever.** While other Git clients charge £50–100/year, Gitux costs less than a single year of the alternatives — and you own it for life. Just like software used to be.
+
+### Lightweight & Fast
+Launches instantly, stays responsive. Even with large repos. No Electron bloat.
 
 ### Privacy First
-Voice recognition runs on your machine. Your code never leaves your computer.
+Voice recognition runs locally on your machine. Your code never leaves your computer. No telemetry, no cloud.
 
 ### Keyboard-Driven
-Every action has a shortcut. `Alt+O` to switch repos, `Ctrl+S` to stage all, `Alt+1-4` for commit prefixes.
+Every action has a shortcut. `Alt+O` to switch repos, `Ctrl+S` to stage all, `Alt+1-4` for commit prefixes. Power users never touch the mouse.
 
 </div>
+
+## How Gitux Compares
+
+| Feature | Gitux | GitKraken | Sourcetree |
+|---------|--------|-----------|------------|
+| Linux, Mac & Windows | ✅ | ✅ | ❌ Mac/Win only |
+| Visual commit graph | ✅ | ✅ | ✅ |
+| Drag & drop merge | ✅ | ✅ | ❌ |
+| Voice commits (offline AI) | ✅ | ❌ | ❌ |
+| Built-in commit prefixes | ✅ | ❌ | ❌ |
+| Diff minimap | ✅ | ❌ | ❌ |
+| File search & browser | ✅ | ❌ | ❌ |
+| No account required | ✅ | ❌ | ❌ |
+| **One-time payment** | **✅ £24** | **❌ subscription** | ✅ Free |
 
 ## Perfect For
 
 - **Solo developers** wanting a visual overview of their work
-- **Teams** reviewing branch histories
+- **Teams** reviewing branch histories and merges
 - **Open source contributors** juggling multiple repos
 - **Anyone** tired of typing `git log --oneline --graph --all`
 
@@ -91,8 +105,10 @@ Easily keep an eye on which git commands are being run every step of the way:
 
 <div class="cta-section">
 
-## Ready to simplify your Git workflow?
+## Ready to try Gitux?
 
-[Download Gitux](/download){.cta-button} [View Pricing](/pricing){.cta-button-alt}
+Download it, use every feature free for 28 days, and decide for yourself. No credit card. No account. No catch.
+
+[Download Free Trial](/download){.cta-button} [View Pricing](/pricing){.cta-button-alt}
 
 </div>
