@@ -40,10 +40,6 @@ features:
     details: Find any commit by message, author, or date. Search files and browse the repo tree to jump straight to file history.
 ---
 
-<div class="trial-banner">
-  <strong>🎉 Try Gitux free for 28 days</strong> — full access, every feature, no credit card, no account. Just <a href="/download">download and start using it</a>.
-</div>
-
 <div id="demo" class="demo-section">
 
 ## See Gitux in Action
@@ -76,22 +72,6 @@ Voice recognition runs locally. Your code never leaves your machine. No telemetr
 Every action has a shortcut. Stage, commit, push, and navigate without touching the mouse.
 
 </div>
-
-## How Gitux Compares
-
-| Feature | Gitux | GitKraken | Sourcetree |
-|---------|--------|-----------|------------|
-| Linux, Mac & Windows | ✅ | ✅ | ❌ Mac/Win only |
-| Visual commit graph | ✅ | ✅ | ✅ |
-| Drag & drop merge | ✅ | ✅ | ❌ |
-| Voice commits (offline AI) | ✅ | ❌ | ❌ |
-| Built-in commit prefixes | ✅ | ❌ | ❌ |
-| Diff minimap | ✅ | ❌ | ❌ |
-| File search & browser | ✅ | ❌ | ❌ |
-| No account required | ✅ | ❌ | ❌ |
-| **One-time payment** | **✅ £24** | **❌ subscription** | ✅ Free |
-
----
 
 <div class="cta-section">
 
